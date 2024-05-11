@@ -22,7 +22,7 @@ StudySmartly is an innovative web application designed to revolutionize the way 
 
 ## Getting Started
 
-To get started with StudyGenius, follow these steps:
+To get started with StudySmartly, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Ojobamiche/StudySmartly.git`
 2. Navigate to the project directory: `cd StudySmartly`
@@ -32,7 +32,7 @@ To get started with StudyGenius, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to StudyGenius, please fork the repository and submit a pull request with your changes.
+Contributions are welcome! If you'd like to contribute to StudySmartly, please fork the repository and submit a pull request with your changes.
 
 ## License
 
